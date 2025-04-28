@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "[]"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "laughing-tribble"
+  },
+  "license": "ISC",
+  "author": "Isaiah Cleveland",
+  "type": "\"module\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
